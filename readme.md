@@ -59,7 +59,7 @@ $ sudo apt-get install \
 
 3. Add Docker's official GPG key:
 ```bash
-$ curl -fsSL https://sownload.docker.com/linux/ubuntu/gpg | sudo apt-key add -
+$ curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
 ```
 Verify that you now have the key with the fingerprint:  
 `9DC8 582 9FC7 DD38 854A E2d8 8D81 803C 0EBF CD88`, by searching for the last 8 characters of the fingerprint.  
